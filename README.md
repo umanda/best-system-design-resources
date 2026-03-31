@@ -3,13 +3,13 @@ Hello guys, if you are preparing for Software Engineer Interviews, or Software d
 
 In Software Engineering world, if you are applying for a Senior Engineer / Lead / Architect / or a more senior role, [System Design](https://javarevisited.blogspot.com/2022/08/top-5-system-design-interview-courses.html) is the most sought-after skill, and hence one of the most important rounds in the whole process. If you mess this up, nothing else would matter. 
 
-If you get it right though, you're looking at a raise of at least tens of thousands of dollars annuall and in this repository, you will find best System design resources like online courses, books, websites, and system design interview cheat sheets like below from [**Exponent**](https://bit.ly/3cNF0vw) and [ByteByteGo]((https://bit.ly/3P3eqMN)) which you can use to quickly revise the key concepts
+If you get it right though, you're looking at a raise of at least tens of thousands of dollars annuall and in this repository, you will find best System design resources like online courses, books, websites, and system design interview cheat sheets like below from [**Exponent**](https://bit.ly/3cNF0vw) and [**ByteByteGo**](https://bit.ly/3P3eqMN) which you can use to quickly revise the key concepts
 
 [![System Design Interview cheatsheet](https://miro.medium.com/v2/resize:fit:488/1*JUkqJQGFCj94CBFz8iIHIQ.png)](https://bit.ly/3cNF0vw)
 
 So how do you ace your system design round? Well, here's what I did while preparing for my interviews with Facebook, Google, and Amazon, and it worked out rather well. I did end up creating a checklist for myself which got me through most of my rounds, so if you follow a similar path you should be able to come up with something that works for you as well.
 
-A collection of best resources to learn System Design, Software architecture, and prepare for System Design Interviews
+A collection of best resources to learn System Design, Software architecture, and prepare for System Design Interviews, including [**System Design Practice Tests**](https://www.udemy.com/course/system-design-interview-mastery-concepts-mock-tests-tradeoffs/?couponCode=LAUNCH)
 
 ## 🎁 Best System design Courses
 Online courses provide the most structured way to prepare for System Design, here are the best online courses you can join to learn System Design and prepare for System Design interviews
@@ -17,22 +17,23 @@ Online courses provide the most structured way to prepare for System Design, her
 2. [Codemia.io](https://buff.ly/4dl3eHJ) - leetcode style system design interview prep
 3. [Exponent](https://bit.ly/3cNF0vw) - free system design mock interviews with peers
 4. [Grokking the System Design Interview course by DesignGuru.io](https://bit.ly/3ckZlsl)
-5. [System Design School](https://systemdesignschool.io/?linkId=lp_110319&sourceId=javarevisited&tenantId=system-design-school) - interactive system deisgn prep from founders of [Algomonster](http://shrsl.com/483tt)
-6. [System Design Masterclass course on Udemy]( https://trk.udemy.com/c/3294490/3262185/39854?u=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsystem-design-masterclass%2F%3FcouponCode%3DKEEPLEARNING)
-7. [Grokking Moder System Design Interview on Educative](https://bit.ly/3Mnh6UR) - interactive system deisgn course + AI mock interviews
-8. [Modern System Design Course on Udemy](https://trk.udemy.com/c/3294490/3262185/39854?u=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsystem-design-interview-prep%2F%3FcouponCode%3DKEEPLEARNING) 
-9. [Advanced System Design Course on DesignGuru](https://designgurus.org/link/84Y9hP?url=https%3A%2F%2Fdesigngurus.org%2Fbundles%3Fbundle_id%3Dbuy-both-system-design-courses)
-10. [Zero to Mastery Academy](https://bit.ly/3YpWu4q) 
-11. [Meetapro](https://bit.ly/48UAXpJ)
-12. [Software Design Specialization on Coursera](https://bit.ly/3BxMXzr)
-13. [Software Architecture 101](https://bit.ly/3pzJCJh)  
+5. [Bugfree.ai](https://www.bugfree.ai/?via=javarevisited) - System Design practice question and AI based mock interviews 
+6. [System Design School](https://systemdesignschool.io/?linkId=lp_110319&sourceId=javarevisited&tenantId=system-design-school) - interactive system deisgn prep from founders of [Algomonster](http://shrsl.com/483tt)
+7. [System Design Masterclass course on Udemy]( https://trk.udemy.com/c/3294490/3262185/39854?u=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsystem-design-masterclass%2F%3FcouponCode%3DKEEPLEARNING)
+8. [Grokking Moder System Design Interview on Educative](https://bit.ly/3Mnh6UR) - interactive system deisgn course + AI mock interviews
+9. [Modern System Design Course on Udemy](https://trk.udemy.com/c/3294490/3262185/39854?u=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsystem-design-interview-prep%2F%3FcouponCode%3DKEEPLEARNING) 
+10. [Advanced System Design Course on DesignGuru](https://designgurus.org/link/84Y9hP?url=https%3A%2F%2Fdesigngurus.org%2Fbundles%3Fbundle_id%3Dbuy-both-system-design-courses)
+11. [Zero to Mastery Academy](https://bit.ly/3YpWu4q) 
+12. [Meetapro](https://bit.ly/48UAXpJ)
+13. [Software Design Specialization on Coursera](https://bit.ly/3BxMXzr)
+14. [Software Architecture 101](https://bit.ly/3pzJCJh)  
 
 ## ⚡ Best System Design Books
 While online courses are good to start with, books provides the most in-depth knowledge required to crack the System Design interview, here are the top System design books you can read to prepare for interviews
 1. [Designing Data-Insensitive Applications](https://amzn.to/3nXKaas)
 2. [System Design Interview](https://amzn.to/3nU2Mbp)  
 3. [The System Design Interview, 2nd Edition](https://amzn.to/3yYlFjX)
-4. [System Design Interview --- An Insider's Guide: Volume 2 by Alex Xu and Sahn Lam](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119/?tag=javamysqlanta-20)
+4. [System Design Interview - An Insider's Guide: Volume 2 by Alex Xu and Sahn Lam](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119/?tag=javamysqlanta-20)
 5. [Machine Learning System Design Interview by Ali Aminian and Alex Xu](https://www.amazon.com/Machine-Learning-Design-Interview-System/dp/B09YQWX59Z?tag=javamysqlanta-20)
 6. [Hacking the System Design Interview: Real Big Tech Interview Questions and In-depth Solutions by Stanley Chiang](https://www.amazon.com/Hacking-System-Design-Interview-depth/dp/B0B7QHRK5Q?tag=javamysqlanta-20)
 7. [Acing the System Design Interview by Zhiyong Tan](https://www.amazon.com/Acing-System-Design-Interview-Zhiyong/dp/1633439100?tag=javamysqlanta-20)
@@ -75,8 +76,8 @@ These are essential System Design concepts every programmer or softeware develop
 -   [Database Replication vs Sharding](https://javarevisited.substack.com/p/system-design-basics-database-replication)-
 -   [JWT vs Session based authentication](https://javarevisited.substack.com/p/difference-between-jwts-json-web)-
 -   Consistent Hashing-
--    [Message Queues](https://javarevisited.substack.com/p/system-design-basics-master-message)-
--    [REST vs gRPC](https://medium.com/javarevisited/difference-between-rest-graphql-and-grpc-10ac365462b8)-
+-   [Message Queues](https://javarevisited.substack.com/p/system-design-basics-master-message)-
+-   [REST vs gRPC](https://medium.com/javarevisited/difference-between-rest-graphql-and-grpc-10ac365462b8)-
 -    Leader election (Raft, Paxos)-
 -    Circuit breakers-
 -    Failover & Disaster Recovery-
@@ -86,6 +87,10 @@ These are essential System Design concepts every programmer or softeware develop
 -    Microservices vs Monolith-   [Saga pattern](https://javarevisited.substack.com/p/how-does-saga-design-pattern-works)-
 -    Idempotency
 -    [Cache Invalidation Strategies](https://javarevisited.substack.com/p/system-design-basics-cache-invalidation)
+-    [System Design Bascis - TCP vs UDP](https://javarevisited.substack.com/p/system-design-basics-tcp-vs-udp)
+-    [APIs, Database, and CDN](https://javarevisited.substack.com/p/system-design-basics-apis-databases)
+-    [API Security](https://javarevisited.substack.com/p/api-security-explained-7-must-know)
+-    [Microservices best Practices](https://javarevisited.substack.com/p/microservices-are-mess-without-these-a33)
 
 ## Best System Design Interview Qustions
 These are the concept based System design interview questions which is often asked during telephonic round of interviews. Many of these questiosn were asked to me and I have impressed my interviewer with my answers, which you can also read
